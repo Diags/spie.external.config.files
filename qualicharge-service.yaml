@@ -1,0 +1,19 @@
+build:
+  version: "1.0"
+info:
+  app:
+    name: "notification-service"
+    description: "SUNUBUS Application"
+    version: "1.0.0"
+notification-service:
+  message: "Welcome to Sigmas Notification related developpement APIs "
+  contactDetails:
+    name: "SYLLA Diaguily - Product Owner"
+    email: "{cipher}e205e8b9d2993df2c5ee17812bf24a31349b4e406bd7a5273bb43e30ec5f8b7c436413cf08d0ce20ebe6391e9a4f2f75"
+  onCallSupport:
+    - (+336) 099999999
+    - (+336) 065893224
+  activeBranches: 
+   - "MASTER"
+   - "Modify by Diaguily"
+   
